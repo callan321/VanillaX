@@ -39,6 +39,6 @@ If you prefer not to use go-task, refer to the [Taskfile.yml](./Taskfile.yml) an
 
 ## Taskfile Reference
 
-This project uses a [Taskfile.yml](./Taskfile.yml) with the following commands:
+This project uses a [Taskfile.yaml](./Taskfile.yaml) with the following commands:
 
 
