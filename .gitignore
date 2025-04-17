@@ -1,0 +1,6 @@
+# Ignore the database
+/database/app.db
+
+# Ignore IDE/editor config files
+**/.vscode/
+**/.idea/
