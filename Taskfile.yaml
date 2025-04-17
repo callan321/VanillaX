@@ -1,0 +1,13 @@
+version: "3"
+
+tasks:
+  setup:
+    desc: Create and initialize the database
+    cmds:
+      - php database/setup.php
+
+  dev:
+    desc: Open app served by Laravel Herd
+    cmds:
+      - cmd /c start http://vanillax.test/
+    silent: false
